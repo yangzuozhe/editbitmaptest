@@ -1,3 +1,2 @@
 include ':editlibrary'
-include ':app'
 rootProject.name = "EditBitmapTest"
